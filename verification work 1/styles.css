@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main {
+    text-align: center;
+}
+
+.text {
+    margin: 0;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.red_text {
+    color: red;
+}
+
+.start_button {
+    width: 350px;
+    height: 50px;
+    margin: 24px 0;
+    font-size: 1.5rem;
+    border-radius: 25px;
+    background-color: gainsboro;
+
+    &:hover {
+        background-color: gray;
+    }
+
+    &:active {
+        background-color:darkgray;
+    }
+}
