@@ -1,0 +1,2 @@
+# OKProg
+BSUIR algorithmization subject
