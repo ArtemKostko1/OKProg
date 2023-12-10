@@ -1,2 +1,2 @@
 # OKProg
-BSUIR algorithmization subject
+BSUIR subject on the fundamentals of program design
